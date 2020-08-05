@@ -1,0 +1,14 @@
+.newsCard{
+    width: 59%;
+    height: 65vh;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 2%
+}
+.newsUser{
+    display: inline-flex;
+    /* flex-direction: row; */
+}
+.profileImage{
+    height: 50px;
+}
